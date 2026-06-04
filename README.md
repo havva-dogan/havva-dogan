@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Havva 👋
 
-<!--
-**havva-dogan/havva-dogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sales & Partnerships Leader · MSc Data Science · Berlin, Germany
 
-Here are some ideas to get you started:
+10+ years in enterprise sales & partnerships across EMEA — IoT, SaaS, sensor systems, and critical infrastructure. I use data to sell smarter: this GitHub is where I explore that intersection through personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I work with
+Python
+Jupyter Notebook
+Data Analysis
+Machine Learning
+EDA
+Classification
+Featured projects
+🔊 Urban Sound Classification — Audio ML project classifying city sounds using deep learning
+
+📊 Exploratory Data Analysis — EDA examples demonstrating analytical thinking and data storytelling
+
+🦷 Dental Lesion Detection — Computer vision project for medical image classification
+
+🚴 Bikeshare Data Analysis — Python data project (Udacity PDSND)
+
+Background
+Previously at Shell · Turkcell · Vodafone · Johnson & Johnson · Litum · Alex Solutions · Dryad Networks
+
+🌍 Active across EMEA — opened 6 new markets, delivered €1.2M+ in enterprise deals
+
+Connect
+💼 LinkedIn 📧 hawadogan@gmail.com
