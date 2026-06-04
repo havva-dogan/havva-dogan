@@ -26,4 +26,4 @@ Previously at Shell · Turkcell · Vodafone · Johnson & Johnson · Litum · Ale
 🌍 Active across EMEA — opened 6 new markets, delivered €1.2M+ in enterprise deals
 
 Connect
-💼 LinkedIn 📧 hawadogan@gmail.com
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/havva-d-05486634/)/ 📧 hawadogan@gmail.com
