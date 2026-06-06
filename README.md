@@ -1,8 +1,8 @@
-Hi, I'm Havva 👋
+# Hi, I'm Havva 👋
 
 **Sales & Partnerships Leader · MSc Data Science · Berlin, Germany**
 
-10+ years in enterprise sales & partnerships across EMEA — IoT, SaaS, sensor systems, and critical infrastructure. I use data to sell smarter: this GitHub is where I explore that intersection through personal projects.
+10+ years in enterprise sales & partnerships across EMEA in IoT, SaaS, sensor systems, and critical infrastructure. I use data to sell smarter: this GitHub is where I explore that intersection through personal projects.
 
 ---
 
@@ -20,8 +20,8 @@ Hi, I'm Havva 👋
 
 | Project | Description |
 |--------|-------------|
-| 🦷 [Dental Lesion Detection](https://github.com/havva-dogan/dental-lesion-detection) | MSc thesis project — computer vision for medical image segmentation using U-Net |
-| 🛰️ [Vegetation Risk — Power Line Corridor](https://github.com/havva-dogan/vegetation-risk-powerline-corridor) | Satellite-based vegetation encroachment analysis using real Sentinel-2 imagery and NDVI — inspired by LiveEO Treeline |
+| 🦷 [Dental Lesion Detection](https://github.com/havva-dogan/dental-lesion-detection) | MSc thesis project: computer vision for medical image segmentation using U-Net |
+| 🛰️ [Vegetation Risk: Power Line Corridor](https://github.com/havva-dogan/vegetation-risk-powerline-corridor) | Satellite-based vegetation encroachment analysis using real Sentinel-2 imagery and NDVI for power line infrastructure monitoring |
 | 🔊 [Urban Sound Classification](https://github.com/havva-dogan/urban-sound-classification) | Audio ML project classifying city sounds using deep learning |
 | 📊 [Exploratory Data Analysis](https://github.com/havva-dogan/exploratory-data-analysis) | EDA examples demonstrating analytical thinking and data storytelling |
 | 🚴 [Bikeshare Data Analysis](https://github.com/havva-dogan/bikeshare-data-analysis) | Python data project (Udacity PDSND) |
@@ -32,7 +32,7 @@ Hi, I'm Havva 👋
 
 Previously at **Shell · Turkcell · Vodafone · J&J · Litum · Alex Solutions · Dryad Networks**
 
-🌍 Active across EMEA — opened 6 new markets, delivered €1.2M+ in enterprise deals
+🌍 Active across EMEA: opened 6 new markets, delivered €1.2M+ in enterprise deals
 
 ---
 
