@@ -2,8 +2,7 @@
 
 **Sales & Partnerships Leader · MSc Data Science · Berlin, Germany**
 
-10+ years in enterprise sales & partnerships across EMEA in IoT, SaaS, sensor systems, and critical infrastructure. I use data to sell smarter: this GitHub is where I explore that intersection through personal projects.
-
+10+ years in enterprise sales & partnerships across EMEA in data and sensing technology. Building to stay AI-fluent.
 ---
 
 ## 🛠 What I work with
