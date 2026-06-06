@@ -3,6 +3,7 @@
 **Sales & Partnerships Leader · MSc Data Science · Berlin, Germany**
 
 10+ years in enterprise sales & partnerships across EMEA in data and sensing technology. Building to stay AI-fluent.
+
 ---
 
 ## 🛠 What I work with
